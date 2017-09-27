@@ -4,8 +4,8 @@ int main()
 {
     char ch;
     int i;
-    scanf("%c", &i);
-    scanf("%d", &ch);
+    scanf("%c", &ch);
+    scanf("%d", &i);
     printf("%c %d", ch, i);
  
    return 0;
